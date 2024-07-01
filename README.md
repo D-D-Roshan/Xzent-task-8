@@ -27,7 +27,7 @@ Welcome to the Appspery Website Clone repository! This project is a clone of the
 
  **Clone the repository**:
  
-    git clone https://github.com/D-D-Roshan/Xzent-task-5
+    git clone https://github.com/D-D-Roshan/Xzent-task-8
 
 
 ## Screenshots
