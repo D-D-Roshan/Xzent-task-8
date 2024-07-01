@@ -20,7 +20,7 @@ Welcome to the Appspery Website Clone repository! This project is a clone of the
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=nextjs"/>
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=git"/>
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=netlify"/>
-<img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=vscode"/>
+
 </div>
 
 ## Installation
